@@ -1,6 +1,6 @@
-# LaTeX-ChicagoReedweb-mod
+# LaTeX-ChicagoReedWeb-mod
 
-ChicagoReedweb is a fantastic BibTeX style! However, there were a couple things that I needed to tweak to use this for thesis submission.
+[ChicagoReedWeb](http://www.reed.edu/cis/help/files/ChicagoReedWeb.bst) is a fantastic BibTeX style! However, there were a couple things that I needed to tweak to use this for thesis submission.
 
 * Punctuation was slightly off for journal entries
 * Formatting was slightly off for articles in a collection (book).
